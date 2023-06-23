@@ -29,7 +29,7 @@ class MyApp extends StatelessWidget {
         Column(
 
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          crossAxisAlignment: CrossAxisAlignment.end,
+          crossAxisAlignment: CrossAxisAlignment.center,
 
             children: [
             Text("4"),
